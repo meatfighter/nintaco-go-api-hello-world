@@ -1,6 +1,6 @@
 # Nintaco Go API - Hello World Example
 
-### Remote Control
+### External Control
 
 To programmatically control Nintaco from an externally running Go program:
 
