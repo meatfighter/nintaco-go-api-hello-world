@@ -1,4 +1,4 @@
-# Nintaco Go API Hello World Example
+# Nintaco Go API - Hello World Example
 
 ### Remote Control
 
